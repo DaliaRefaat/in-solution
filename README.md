@@ -1,6 +1,3 @@
 # in-solution
-I created this project with HTML & CSS & JS to stimulate an interface of a site that 
-collects and fundraises money for community important meanings such as aiding the 
-needy. 
-All the site's vectors, such as the SVG logos in the image folder, were created by me. 
-view documentation file for more info
+
+A project created using HTML, CSS, and JS for a site that collects and generates funds for community-important causes such as assisting the needy. I made all of the vectors on the site, including the SVG logos. More information can be found in the documentation file.
